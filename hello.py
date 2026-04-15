@@ -1,2 +1,1 @@
-print("Hello Git")
-print("Feature branch change")
+print("This is new change")
